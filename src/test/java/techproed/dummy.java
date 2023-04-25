@@ -1,2 +1,4 @@
-package techproed;public class dummy {
+package techproed;
+
+public class dummy {
 }
