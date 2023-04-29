@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c4a3e10-3f20-4033-86c4-3a44d5acab7c" name="Changes" comment="27.04.2023">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day23_DriverTest.java" afterDir="false" />
+    <list default="true" id="9c4a3e10-3f20-4033-86c4-3a44d5acab7c" name="Changes" comment="29.04.2023">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/OpenSourcePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day24_Properties_Pages/C01_ClassWork.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +34,18 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "settings.editor.selected.configurable": "Errors"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sony\IdeaProjects\B129TestNGProject\target" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.Day23_Driver_ConfigReader_Test.driverTest">
     <configuration name="Day22_TestNGAnnotations.test01" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="B129TestNGProject" />
@@ -132,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682592637074</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="29.04.2023">
+      <created>1682778704697</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682778704697</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,7 +163,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestNG" />
     <MESSAGE value="27.04.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="27.04.2023" />
+    <MESSAGE value="29.04.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="29.04.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
