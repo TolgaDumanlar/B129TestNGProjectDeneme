@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9c4a3e10-3f20-4033-86c4-3a44d5acab7c" name="Changes" comment="TestNG">
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day23_DependsOnMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day23_Driver_ConfigReader_Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day23_SoftAssertion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Driver.java" afterDir="false" />
+    <list default="true" id="9c4a3e10-3f20-4033-86c4-3a44d5acab7c" name="Changes" comment="27.04.2023">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day23_DriverTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/dummy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/Day22_TestNGAnnotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/Day22_TestNGAnnotations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/techproed/tests/Dummy.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682420075067</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="27.04.2023">
+      <created>1682592637074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682592637074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -148,7 +148,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="TestNG" />
-    <option name="LAST_COMMIT_MESSAGE" value="TestNG" />
+    <MESSAGE value="27.04.2023" />
+    <option name="LAST_COMMIT_MESSAGE" value="27.04.2023" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
