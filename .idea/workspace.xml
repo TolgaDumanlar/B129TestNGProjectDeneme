@@ -5,6 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4a3e10-3f20-4033-86c4-3a44d5acab7c" name="Changes" comment="29.04.2023">
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/pages/TestCenterTechproPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day24_Properties_Pages/C03_PageKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/tests/day28_Listeners/C01_Listeners.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/techproed/utilities/Listeners.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,21 +34,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "Errors"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Sony\IdeaProjects\B129TestNGProject\target" />
     </key>
   </component>
   <component name="RunManager" selected="TestNG.Day23_Driver_ConfigReader_Test.driverTest">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="B129TestNGProjectDeneme" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="B129TestNGProjectDeneme" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Day22_TestNGAnnotations.test01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B129TestNGProject" />
+      <module name="B129TestNGProjectDeneme" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="techproed.tests.*" />
@@ -62,7 +79,7 @@
       </method>
     </configuration>
     <configuration name="Day23_DependsOnMethods.signInTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B129TestNGProject" />
+      <module name="B129TestNGProjectDeneme" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="techproed.tests.*" />
@@ -80,7 +97,7 @@
       </method>
     </configuration>
     <configuration name="Day23_Driver_ConfigReader_Test.driverTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="B129TestNGProject" />
+      <module name="B129TestNGProjectDeneme" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="techproed.tests.*" />
@@ -149,7 +166,21 @@
       <option name="project" value="LOCAL" />
       <updated>1682783189031</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="29.04.2023">
+      <created>1682784683335</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1682784683335</updated>
+    </task>
+    <task id="LOCAL-00007" summary="29.04.2023">
+      <created>1682784921149</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1682784921149</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
